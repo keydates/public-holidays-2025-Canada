@@ -1,0 +1,104 @@
+{
+  "product": "Canada Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government of Canada",
+      "product": "Canada Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the first day of the new year"
+    },
+    {
+      "title": "Family Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-02-17T12:00:00",
+      "endDate": "2025-02-17T12:00:00",
+      "source": "Government of Canada",
+      "product": "Canada Public Holidays 2025",
+      "style": "purple",
+      "description": "A day to spend with family and loved ones"
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-18T12:00:00",
+      "endDate": "2025-04-18T12:00:00",
+      "source": "Government of Canada",
+      "product": "Canada Public Holidays 2025",
+      "style": "pink",
+      "description": "Christian holiday commemorating the crucifixion of Jesus"
+    },
+    {
+      "title": "Victoria Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-19T12:00:00",
+      "endDate": "2025-05-19T12:00:00",
+      "source": "Government of Canada",
+      "product": "Canada Public Holidays 2025",
+      "style": "purple",
+      "description": "Celebration of Queen Victoria's birthday"
+    },
+    {
+      "title": "Canada Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-07-01T12:00:00",
+      "endDate": "2025-07-01T12:00:00",
+      "source": "Government of Canada",
+      "product": "Canada Public Holidays 2025",
+      "style": "red",
+      "description": "National day of Canada, commemorating the anniversary of the Constitution Act"
+    },
+    {
+      "title": "Labour Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-09-01T12:00:00",
+      "endDate": "2025-09-01T12:00:00",
+      "source": "Government of Canada",
+      "product": "Canada Public Holidays 2025",
+      "style": "teal",
+      "description": "Celebration of the achievements of workers"
+    },
+    {
+      "title": "Thanksgiving Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-10-13T12:00:00",
+      "endDate": "2025-10-13T12:00:00",
+      "source": "Government of Canada",
+      "product": "Canada Public Holidays 2025",
+      "style": "orange",
+      "description": "Harvest festival giving thanks for a good harvest and blessings of the past year"
+    },
+    {
+      "title": "Remembrance Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-11T12:00:00",
+      "endDate": "2025-11-11T12:00:00",
+      "source": "Government of Canada",
+      "product": "Canada Public Holidays 2025",
+      "style": "deepPurple",
+      "description": "Commemorating the sacrifices of members of the armed forces and of civilians in times of war"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "Government of Canada",
+      "product": "Canada Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the birth of Jesus Christ"
+    }
+  ]
+}
